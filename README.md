@@ -83,3 +83,4 @@
 * <a href="https://drive.google.com/open?id=0B6AZZf9WIX_DZlp4bVZnNFUtZ0pLVHdOaFU1T2VNRWx3YjFr" target="_blank">[The State of World Fisheries and Aquaculture - the Food and Agriculture Organization’s State of the World Fisheries and Aquaculture (SOFIA) 2014 report</a>(PDF)
 * <a href="https://docs.google.com/file/d/0B6AZZf9WIX_DWDR3MXFJQXp3Y0tHa0M2Y0xYWnhlam9JcnVv/edit?usp=docslist_api&filetype=msword" target="_blank">Fish Statistics</a>(DOCX)
 * <a href="https://drive.google.com/open?id=0B6AZZf9WIX_Da3NvS1gxOFRtTF9GRHJfdzNDdXVSODhBaGlZ" target="_blank">Infographic-SOFIA-2014</a>(PDF)
+* <a href="http://ec.europa.eu/eurostat/web/fisheries/data/database" target="_blank">歐盟漁業資料庫</a>
