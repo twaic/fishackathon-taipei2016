@@ -1,4 +1,17 @@
 # 2016 全球魚客松 Fishackathon 台北場漁業諮詢區
+全球魚客松官方網站 http://fishackathon2016.devpost.com
+
+
+## 正式試題 FEATURED PROBLEM STATEMENTS
+
+
+### 中文譯版 (CHINESE)
+[中文譯版 PDF 下載](https://github.com/twaic/fishackathon-taipei/raw/master/2016-Fishackathon-Final-Problem-Statements-CH.pdf)
+[![FEATURED PROBLEM STATEMENTS- CHINESE](https://github.com/twaic/fishackathon-taipei/blob/master/Thumbnail-2016-Fishackathon-Final-Problem-Statements-CH-480x621.png?raw=true)](https://github.com/twaic/fishackathon-taipei/raw/master/2016-Fishackathon-Final-Problem-Statements-CH.pdf)
+
+### 英文版 (ENGLISH)
+[英文版 PDF 下載](https://github.com/twaic/fishackathon-taipei/raw/master/2016-Fishackathon-Final-Problem-Statements.pdf)
+[![FEATURED PROBLEM STATEMENTS](https://github.com/twaic/fishackathon-taipei/blob/master/Thumbnail-2016-Fishackathon-Final-Problem-Statements-480x621.png?raw=true)](https://github.com/twaic/fishackathon-taipei/raw/master/2016-Fishackathon-Final-Problem-Statements.pdf)
 
 ## 魚客松漁業相關資訊參考
 ###賽前訓練課程錄影
